@@ -22,8 +22,6 @@ C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\scoped
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.TagHelpers.input.cache
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.TagHelpers.output.cache
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.RazorCoreGenerate.cache
-C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -36,3 +34,5 @@ C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaT
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.pdb
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.genruntimeconfig.cache
 C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.csproj.CopyComplete
+C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
+C:\Users\rodri\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Clima.cshtml.g.cs

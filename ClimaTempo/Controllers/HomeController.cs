@@ -18,12 +18,21 @@ namespace ClimaTempo.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        //public IActionResult Index()
+        //{
+        //    return View();
+        //}
+
+        public IActionResult Clima()
         {
             return View();
         }
+        //public IActionResult Privacy()
+        //{
+        //    return View();
+        //}
 
-        public IActionResult Privacy()
+        public IActionResult Sobre()
         {
             return View();
         }
